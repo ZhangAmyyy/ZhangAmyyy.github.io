@@ -17,7 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student in Computer Science at the [Northeastern University](https://www.northeastern.edu/). I am looking for the internship for 2024 spring/summer.
+I am a master student in Computer Science at the [Northeastern University](https://www.northeastern.edu/). I am looking for the 2025 SDE full-time roles.
+
+# 💻 Internships
+- *2024.05 - 2024.08*, Software Engineer Intern, [Monte Rosa Therapeutics](https://www.monterosatx.com/), Boston, MA.
+- *2024.05 - 2024.08*, Software Engineer Intern, [Roche](https://www.roche.com/), Santa Clara, CA.
+- *2023.05 - 2023.09*, DevOps Intern, [Jaguar Land Rover](https://www.jaguarlandrover.com/), Portland, OR.
+- *2023.01 - 2023.05*, Teaching Assistant, [Northeastern University](https://www.northeastern.edu/), Seattle, WA.
+- *2023.01 - 2023.05*, Software Engineer Intern, [Wudazhongxin](http://www.wudazhongxin.com/), Hybrid.
 
 # 🔨 Projects
 - [Film Gallery](https://github.com/ZhangAmyyy/film_gallery): 
@@ -68,9 +75,7 @@ This is a Full Stack Warehouse Management System. The system allows administrato
   + Database: MySQL
   + API Testing: Postman
 
-# 💻 Internships
-- *2023.05 - 2023.09*, DevOps Intern, [Jaguar Land Rover](https://github.com/), Portland, U.S.
-- *2023.01 - 2023.05*, Teaching Assistant, [Northeastern University](https://www.northeastern.edu/), Seattle, U.S.
+
 
 
 
