@@ -20,7 +20,7 @@ redirect_from:
 I am a master student in Computer Science at the [Northeastern University](https://www.northeastern.edu/). I am looking for the 2025 SDE full-time roles.
 
 # 💻 Internships
-- *2024.08 - 2024.09*, Software Engineer Intern, [Monte Rosa Therapeutics](https://www.monterosatx.com/), Boston, MA.
+- *2024.08 - 2024.12*, Software Engineer Intern, [Monte Rosa Therapeutics](https://www.monterosatx.com/), Boston, MA.
   + Designed and implemented an ***AI-driven bio-research search platform backend*** using **Python** and **Flask**, leveraging vector search and **RAG** architecture with **LLM** embeddings to automate insight extraction from search results, cutting manual data retrieval and analysis time by up to 25 hours per week
   + Enhanced query flexibility by integrating up to 8 different queries into a single request through **GraphQL APIs**, enabling dynamic and adaptable queries to fit the company’s evolving research needs
   + Eliminated repeated external API calls by indexing and aggregating data in **OpenSearch**, allowing direct queries during user searches, reducing response time from 200ms to 80ms, and mitigating API rate-limiting issues
@@ -37,7 +37,7 @@ I am a master student in Computer Science at the [Northeastern University](https
   + Reduced deployment delays by automating the **CI/CD pipeline** with **GitHub Action** and **Terraform**, resolving cluster connectivity issues for smooth Kubernetes access, while adhering to **agile** practices for continuous delivery
 - *2023.01 - 2023.05*, Teaching Assistant, [Northeastern University](https://www.northeastern.edu/), Seattle, WA.
   + Be the TA of Object-Oriented Design. Teach a class of 60 students, and support instructor in teaching.
-- *2023.01 - 2023.05*, Software Engineer Intern, [Wudazhongxin](http://www.wudazhongxin.com/), Hybrid.
+- *2022.04 - 2022.08*, Software Engineer Intern, [Wudazhongxin](http://www.wudazhongxin.com/), Hybrid.
   + Developed a ***RESTful backend for an audit document management system*** using **Gin**, integrating **JWT** and **OAuth2** for secure, role-based access, supporting 50TB+ high volumes of long-term data
   + Optimized inter-service communication with **gRPC**, cutting latency by 53% and boosting document workflow
   + Designed a hybrid storage solution using **MySQL** for metadata indexing and S3 for document storage. Utilized **DBML** and SQLC-generated **Go** interfaces to ensure efficient metadata retrieval and data integrity
