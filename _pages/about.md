@@ -42,7 +42,7 @@ I am a master student in Computer Science at the [Northeastern University](https
   + Optimized inter-service communication with **gRPC**, cutting latency by 53% and boosting document workflow
   + Designed a hybrid storage solution using **MySQL** for metadata indexing and S3 for document storage. Utilized **DBML** and SQLC-generated **Go** interfaces to ensure efficient metadata retrieval and data integrity
 
-# 🔨 Projects
+# 💻 Projects
 - [Film Gallery](https://github.com/ZhangAmyyy/film_gallery): 
 This is a movie review website that allows users to search for movies and view detailed information, including plot summaries, cast, and user reviews. In terms of the technical implementation, we not only used traditional front-end frameworks but also incorporated external open-source APIs as our backend database. AWS services were employed for CRUD operations and page delivery. Ultimately, the application was containerized into a Docker image and deployed on Google Kubernetes Engine. Throughout the development process, we followed a CI/CD pipeline and utilized GitHub branch management to facilitate collaborative development across multiple environments.
   + CI/CD: CircleCI, GitHub Workflows
@@ -91,8 +91,9 @@ This is a Full Stack Warehouse Management System. The system allows administrato
   + Database: MySQL
   + API Testing: Postman
 
+# 💻 Publications
+- *A Novel Diffusion Model for Pairwise Geoscience Data Generation with Unbalanced Training Dataset*, Junhuan Yang, **Yuzhou Zhang**, Yi Sheng, Youzuo Lin and Lei Yang. ***AAAI2025***
 
+- [*Enhanced AI for Science using Diffusion-based Generative AI-A Case Study on Ultrasound Computing Tomography*](https://dl.acm.org/doi/pdf/10.1145/3649476.3660360), Junhuan Yang, Yi Sheng, **Yuzhou Zhang**, Hanchen Wang, Youzuo Lin, Lei Yang. ***GLSVLSI2024***
 
-
-
-
+- [*On-Device Unsupervised Image Segmentation*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247959), Junhuan Yang, Yi Sheng, **Yuzhou Zhang**, Weiwen Jiang, Lei Yang. ***DAC2023***
