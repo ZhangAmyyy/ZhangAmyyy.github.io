@@ -94,6 +94,6 @@ This is a Full Stack Warehouse Management System. The system allows administrato
 # 💻 Publications
 - *A Novel Diffusion Model for Pairwise Geoscience Data Generation with Unbalanced Training Dataset*, Junhuan Yang, **Yuzhou Zhang**, Yi Sheng, Youzuo Lin and Lei Yang. ***AAAI2025***
 
-- [*Enhanced AI for Science using Diffusion-based Generative AI-A Case Study on Ultrasound Computing Tomography*](https://dl.acm.org/doi/pdf/10.1145/3649476.3660360), Junhuan Yang, Yi Sheng, **Yuzhou Zhang**, Hanchen Wang, Youzuo Lin, Lei Yang. ***GLSVLSI2024***
+- [*Enhanced AI for Science using Diffusion-based Generative AI-A Case Study on Ultrasound Computing Tomography*](https://arxiv.org/abs/2303.12753), Junhuan Yang, Yi Sheng, **Yuzhou Zhang**, Hanchen Wang, Youzuo Lin, Lei Yang. ***GLSVLSI2024***
 
-- [*On-Device Unsupervised Image Segmentation*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247959), Junhuan Yang, Yi Sheng, **Yuzhou Zhang**, Weiwen Jiang, Lei Yang. ***DAC2023***
+- [*On-Device Unsupervised Image Segmentation*](https://dl.acm.org/doi/abs/10.1145/3649476.3660360), Junhuan Yang, Yi Sheng, **Yuzhou Zhang**, Weiwen Jiang, Lei Yang. ***DAC2023***
