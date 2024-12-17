@@ -21,26 +21,26 @@ I am a master student in Computer Science at the [Northeastern University](https
 
 # 💻 Internships
 - *2024.08 - 2024.09*, Software Engineer Intern, [Monte Rosa Therapeutics](https://www.monterosatx.com/), Boston, MA.
-+ Designed and implemented an AI-driven bio-research search platform backend using Python and Flask, leveraging vector search and RAG architecture with LLM embeddings to automate insight extraction from search results, cutting manual data retrieval and analysis time by up to 25 hours per week
-+ Enhanced query flexibility by integrating up to 8 different queries into a single request through GraphQL APIs, enabling dynamic and adaptable queries to fit the company’s evolving research needs
-+ Eliminated repeated external API calls by indexing and aggregating data in OpenSearch, allowing direct queries during user searches, reducing response time from 200ms to 80ms, and mitigating API rate-limiting issues
-+ Redeployed 10+ Lambda functions to resolve dependency size limitations, using AWS with Cognito, S3, Athena, DynamoDB, and Amplify to build a serverless, highly available architecture and improve deployment efficiency
+  + Designed and implemented an ***AI-driven bio-research search platform backend*** using **Python** and **Flask**, leveraging vector search and **RAG** architecture with **LLM** embeddings to automate insight extraction from search results, cutting manual data retrieval and analysis time by up to 25 hours per week
+  + Enhanced query flexibility by integrating up to 8 different queries into a single request through **GraphQL APIs**, enabling dynamic and adaptable queries to fit the company’s evolving research needs
+  + Eliminated repeated external API calls by indexing and aggregating data in **OpenSearch**, allowing direct queries during user searches, reducing response time from 200ms to 80ms, and mitigating API rate-limiting issues
+  + Redeployed 10+ Lambda functions to resolve dependency size limitations, using **AWS** with Cognito, S3, Athena, DynamoDB, and Amplify to build a serverless, highly available architecture and improve deployment efficiency
 - *2024.05 - 2024.08*, Software Engineer Intern, [Roche](https://www.roche.com/), Santa Clara, CA.
-+ Enhanced a microservices DNA sequencing RESTful backend service with Java, Spring Boot, and Maven
-+ Reduced data analysis service downtime by redesigning the log transfer process with asynchronous handling, utilizing Redis and Spring Async for efficient task processing, and implementing cron jobs to manage high-traffic periods, enabling real-time cross-device data transfer for parallel analysis
-+ Optimized RabbitMQ routing keys and redesigned the message queue to effectively decouple and segregate high-volume health ping messages, reducing messaging latency by 20% and preventing message queue deadlocks
-+ Developed a flexible multi-input tracing tool by integrating Logstash for local log and message collection, Elasticsearch and Kibana for quick filtering and analysis of high-volume logs and messages, and PostgreSQL for filtered and archival-worthy data storage, significantly improving event traceability and debugging efficiency
-+ Collaborated with the testing team to refactor log management unit tests, cutting daily test time by 100 minutes
+  + Enhanced a ***microservices DNA sequencing RESTful backend service*** with **Java**, **Spring Boot**, and **Maven**
+  + Reduced data analysis service downtime by redesigning the log transfer process with asynchronous handling, utilizing **Redis** and Spring **Async** for efficient task processing, and implementing cron jobs to manage high-traffic periods, enabling real-time cross-device data transfer for parallel analysis
+  + Optimized **RabbitMQ** routing keys and redesigned the message queue to effectively decouple and segregate high-volume health ping messages, reducing messaging latency by 20% and preventing message queue deadlocks
+  + Developed a flexible multi-input tracing tool by integrating Logstash for local log and message collection, **Elasticsearch** and **Kibana** for quick filtering and analysis of high-volume logs and messages, and **PostgreSQL** for filtered and archival-worthy data storage, significantly improving event traceability and debugging efficiency
+  + Collaborated with the testing team to refactor log management **unit tests**, cutting daily test time by 100 minutes
 - *2023.05 - 2023.09*, DevOps Intern, [Jaguar Land Rover](https://www.jaguarlandrover.com/), Portland, OR.
-+ Migrated Advanced Driver Assistance System from on-premises to Kubernetes (GKE) on GCP to realize automatic demand-based scaling, reducing cloud infrastructure costs by 20%
-+ Enhanced migration efficiency and maintained compliance by utilizing Docker and employed Kaniko to securely build images without exposing secrets to the Docker Daemon
-+ Reduced deployment delays by automating the CI/CD pipeline with GitHub Action and Terraform, resolving cluster connectivity issues for smooth Kubernetes access, while adhering to agile practices for continuous delivery
+  + Migrated ***Advanced Driver Assistance System*** from on-premises to **Kubernetes** (GKE) on **GCP** to realize automatic demand-based scaling, reducing cloud infrastructure costs by 20%
+  + Enhanced migration efficiency and maintained compliance by utilizing **Docker** and employed **Kaniko** to securely build images without exposing secrets to the Docker Daemon
+  + Reduced deployment delays by automating the **CI/CD pipeline** with **GitHub Action** and **Terraform**, resolving cluster connectivity issues for smooth Kubernetes access, while adhering to **agile** practices for continuous delivery
 - *2023.01 - 2023.05*, Teaching Assistant, [Northeastern University](https://www.northeastern.edu/), Seattle, WA.
-+ Be the TA of Object-Oriented Design. Teach a class of 60 students, and support instructor in teaching.
+  + Be the TA of Object-Oriented Design. Teach a class of 60 students, and support instructor in teaching.
 - *2023.01 - 2023.05*, Software Engineer Intern, [Wudazhongxin](http://www.wudazhongxin.com/), Hybrid.
-+ Developed a RESTful backend for an audit document management system using Gin, integrating JWT and OAuth2 for secure, role-based access, supporting 50TB+ high volumes of long-term data
-+ Optimized inter-service communication with gRPC, cutting latency by 53% and boosting document workflow
-+ Designed a hybrid storage solution using MySQL for metadata indexing and S3 for document storage. Utilized DBML and SQLC-generated Go interfaces to ensure efficient metadata retrieval and data integrity
+  + Developed a ***RESTful backend for an audit document management system*** using **Gin**, integrating **JWT** and **OAuth2** for secure, role-based access, supporting 50TB+ high volumes of long-term data
+  + Optimized inter-service communication with **gRPC**, cutting latency by 53% and boosting document workflow
+  + Designed a hybrid storage solution using **MySQL** for metadata indexing and S3 for document storage. Utilized **DBML** and SQLC-generated **Go** interfaces to ensure efficient metadata retrieval and data integrity
 
 # 🔨 Projects
 - [Film Gallery](https://github.com/ZhangAmyyy/film_gallery): 
